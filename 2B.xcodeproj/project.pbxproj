@@ -6,6 +6,40 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		E4DBD61F2DE8FCCF00748A04 /* HotKey in Frameworks */ = {isa = PBXBuildFile; productRef = E4DBD61E2DE8FCCF00748A04 /* HotKey */; };
+		E4DBD6222DE913A500748A04 /* SVGView in Frameworks */ = {isa = PBXBuildFile; productRef = E4DBD6212DE913A500748A04 /* SVGView */; };
+		E4DBD6752DE919AB00748A04 /* voice-square.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD6732DE919AB00748A04 /* voice-square.svg */; };
+		E4DBD6762DE919AB00748A04 /* chrome.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD65D2DE919AB00748A04 /* chrome.svg */; };
+		E4DBD6772DE919AB00748A04 /* send-2.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD6702DE919AB00748A04 /* send-2.svg */; };
+		E4DBD6782DE919AB00748A04 /* like-1.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD66B2DE919AB00748A04 /* like-1.svg */; };
+		E4DBD6792DE919AB00748A04 /* bookmark.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD65C2DE919AB00748A04 /* bookmark.svg */; };
+		E4DBD67A2DE919AB00748A04 /* image (2).svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD6692DE919AB00748A04 /* image (2).svg */; };
+		E4DBD67B2DE919AB00748A04 /* flash.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD6652DE919AB00748A04 /* flash.svg */; };
+		E4DBD67C2DE919AB00748A04 /* google-drive.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD6672DE919AB00748A04 /* google-drive.svg */; };
+		E4DBD67D2DE919AB00748A04 /* chrome (1) 1.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD65F2DE919AB00748A04 /* chrome (1) 1.svg */; };
+		E4DBD67E2DE919AB00748A04 /* clipboard-text.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD6612DE919AB00748A04 /* clipboard-text.svg */; };
+		E4DBD67F2DE919AB00748A04 /* whatsapp.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD6742DE919AB00748A04 /* whatsapp.svg */; };
+		E4DBD6802DE919AB00748A04 /* 3-dots-more.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD65B2DE919AB00748A04 /* 3-dots-more.svg */; };
+		E4DBD6812DE919AB00748A04 /* clipboard.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD6602DE919AB00748A04 /* clipboard.svg */; };
+		E4DBD6822DE919AB00748A04 /* dislike.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD6622DE919AB00748A04 /* dislike.svg */; };
+		E4DBD6832DE919AB00748A04 /* document-copy.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD6632DE919AB00748A04 /* document-copy.svg */; };
+		E4DBD6842DE919AB00748A04 /* facebook.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD6642DE919AB00748A04 /* facebook.svg */; };
+		E4DBD6852DE919AB00748A04 /* instagram.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD66A2DE919AB00748A04 /* instagram.svg */; };
+		E4DBD6862DE919AB00748A04 /* send-2 (1).svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD6712DE919AB00748A04 /* send-2 (1).svg */; };
+		E4DBD6872DE919AB00748A04 /* repeat-arrow.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD66F2DE919AB00748A04 /* repeat-arrow.svg */; };
+		E4DBD6882DE919AB00748A04 /* quote-down.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD66D2DE919AB00748A04 /* quote-down.svg */; };
+		E4DBD6892DE919AB00748A04 /* quote-up-square.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD66E2DE919AB00748A04 /* quote-up-square.svg */; };
+		E4DBD68A2DE919AB00748A04 /* maximize.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD66C2DE919AB00748A04 /* maximize.svg */; };
+		E4DBD68B2DE919AB00748A04 /* flash 1.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD6662DE919AB00748A04 /* flash 1.svg */; };
+		E4DBD68C2DE919AB00748A04 /* upload-cloud.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD6722DE919AB00748A04 /* upload-cloud.svg */; };
+		E4DBD68D2DE919AB00748A04 /* 2bicon.pdf in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD65A2DE919AB00748A04 /* 2bicon.pdf */; };
+		E4DBD68E2DE919AB00748A04 /* chrome (1).svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD65E2DE919AB00748A04 /* chrome (1).svg */; };
+		E4DBD68F2DE919AB00748A04 /* Icon.svg in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD6682DE919AB00748A04 /* Icon.svg */; };
+		E4DBD6962DE9F60D00748A04 /* 2bicon_black.pdf in Resources */ = {isa = PBXBuildFile; fileRef = E4DBD6952DE9F60D00748A04 /* 2bicon_black.pdf */; };
+		E4F0EC1B2DECDAC500E56846 /* Figma-Website-2048x1152.webp in Resources */ = {isa = PBXBuildFile; fileRef = E4F0EC1A2DECDAC500E56846 /* Figma-Website-2048x1152.webp */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		E4DBD5FA2DE8F9A800748A04 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +61,35 @@
 		E4DBD5EB2DE8F9A600748A04 /* 2B.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 2B.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4DBD5F92DE8F9A800748A04 /* 2BTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 2BTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4DBD6032DE8F9A800748A04 /* 2BUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 2BUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E4DBD65A2DE919AB00748A04 /* 2bicon.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 2bicon.pdf; sourceTree = "<group>"; };
+		E4DBD65B2DE919AB00748A04 /* 3-dots-more.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "3-dots-more.svg"; sourceTree = "<group>"; };
+		E4DBD65C2DE919AB00748A04 /* bookmark.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = bookmark.svg; sourceTree = "<group>"; };
+		E4DBD65D2DE919AB00748A04 /* chrome.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = chrome.svg; sourceTree = "<group>"; };
+		E4DBD65E2DE919AB00748A04 /* chrome (1).svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "chrome (1).svg"; sourceTree = "<group>"; };
+		E4DBD65F2DE919AB00748A04 /* chrome (1) 1.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "chrome (1) 1.svg"; sourceTree = "<group>"; };
+		E4DBD6602DE919AB00748A04 /* clipboard.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = clipboard.svg; sourceTree = "<group>"; };
+		E4DBD6612DE919AB00748A04 /* clipboard-text.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "clipboard-text.svg"; sourceTree = "<group>"; };
+		E4DBD6622DE919AB00748A04 /* dislike.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = dislike.svg; sourceTree = "<group>"; };
+		E4DBD6632DE919AB00748A04 /* document-copy.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "document-copy.svg"; sourceTree = "<group>"; };
+		E4DBD6642DE919AB00748A04 /* facebook.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = facebook.svg; sourceTree = "<group>"; };
+		E4DBD6652DE919AB00748A04 /* flash.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = flash.svg; sourceTree = "<group>"; };
+		E4DBD6662DE919AB00748A04 /* flash 1.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "flash 1.svg"; sourceTree = "<group>"; };
+		E4DBD6672DE919AB00748A04 /* google-drive.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "google-drive.svg"; sourceTree = "<group>"; };
+		E4DBD6682DE919AB00748A04 /* Icon.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = Icon.svg; sourceTree = "<group>"; };
+		E4DBD6692DE919AB00748A04 /* image (2).svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "image (2).svg"; sourceTree = "<group>"; };
+		E4DBD66A2DE919AB00748A04 /* instagram.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = instagram.svg; sourceTree = "<group>"; };
+		E4DBD66B2DE919AB00748A04 /* like-1.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "like-1.svg"; sourceTree = "<group>"; };
+		E4DBD66C2DE919AB00748A04 /* maximize.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = maximize.svg; sourceTree = "<group>"; };
+		E4DBD66D2DE919AB00748A04 /* quote-down.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "quote-down.svg"; sourceTree = "<group>"; };
+		E4DBD66E2DE919AB00748A04 /* quote-up-square.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "quote-up-square.svg"; sourceTree = "<group>"; };
+		E4DBD66F2DE919AB00748A04 /* repeat-arrow.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "repeat-arrow.svg"; sourceTree = "<group>"; };
+		E4DBD6702DE919AB00748A04 /* send-2.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "send-2.svg"; sourceTree = "<group>"; };
+		E4DBD6712DE919AB00748A04 /* send-2 (1).svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "send-2 (1).svg"; sourceTree = "<group>"; };
+		E4DBD6722DE919AB00748A04 /* upload-cloud.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "upload-cloud.svg"; sourceTree = "<group>"; };
+		E4DBD6732DE919AB00748A04 /* voice-square.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "voice-square.svg"; sourceTree = "<group>"; };
+		E4DBD6742DE919AB00748A04 /* whatsapp.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = whatsapp.svg; sourceTree = "<group>"; };
+		E4DBD6952DE9F60D00748A04 /* 2bicon_black.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 2bicon_black.pdf; sourceTree = "<group>"; };
+		E4F0EC1A2DECDAC500E56846 /* Figma-Website-2048x1152.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Figma-Website-2048x1152.webp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -52,6 +115,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4DBD6222DE913A500748A04 /* SVGView in Frameworks */,
+				E4DBD61F2DE8FCCF00748A04 /* HotKey in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -75,16 +140,45 @@
 		E4DBD5E22DE8F9A600748A04 = {
 			isa = PBXGroup;
 			children = (
+				E4F0EC1A2DECDAC500E56846 /* Figma-Website-2048x1152.webp */,
 				E4DBD5ED2DE8F9A600748A04 /* 2B */,
 				E4DBD5FC2DE8F9A800748A04 /* 2BTests */,
 				E4DBD6062DE8F9A800748A04 /* 2BUITests */,
 				E4DBD5EC2DE8F9A600748A04 /* Products */,
+				E4DBD65A2DE919AB00748A04 /* 2bicon.pdf */,
+				E4DBD65B2DE919AB00748A04 /* 3-dots-more.svg */,
+				E4DBD65C2DE919AB00748A04 /* bookmark.svg */,
+				E4DBD65D2DE919AB00748A04 /* chrome.svg */,
+				E4DBD65E2DE919AB00748A04 /* chrome (1).svg */,
+				E4DBD65F2DE919AB00748A04 /* chrome (1) 1.svg */,
+				E4DBD6602DE919AB00748A04 /* clipboard.svg */,
+				E4DBD6612DE919AB00748A04 /* clipboard-text.svg */,
+				E4DBD6622DE919AB00748A04 /* dislike.svg */,
+				E4DBD6632DE919AB00748A04 /* document-copy.svg */,
+				E4DBD6642DE919AB00748A04 /* facebook.svg */,
+				E4DBD6652DE919AB00748A04 /* flash.svg */,
+				E4DBD6662DE919AB00748A04 /* flash 1.svg */,
+				E4DBD6672DE919AB00748A04 /* google-drive.svg */,
+				E4DBD6682DE919AB00748A04 /* Icon.svg */,
+				E4DBD6692DE919AB00748A04 /* image (2).svg */,
+				E4DBD66A2DE919AB00748A04 /* instagram.svg */,
+				E4DBD66B2DE919AB00748A04 /* like-1.svg */,
+				E4DBD66C2DE919AB00748A04 /* maximize.svg */,
+				E4DBD66D2DE919AB00748A04 /* quote-down.svg */,
+				E4DBD66E2DE919AB00748A04 /* quote-up-square.svg */,
+				E4DBD66F2DE919AB00748A04 /* repeat-arrow.svg */,
+				E4DBD6702DE919AB00748A04 /* send-2.svg */,
+				E4DBD6712DE919AB00748A04 /* send-2 (1).svg */,
+				E4DBD6722DE919AB00748A04 /* upload-cloud.svg */,
+				E4DBD6732DE919AB00748A04 /* voice-square.svg */,
+				E4DBD6742DE919AB00748A04 /* whatsapp.svg */,
 			);
 			sourceTree = "<group>";
 		};
 		E4DBD5EC2DE8F9A600748A04 /* Products */ = {
 			isa = PBXGroup;
 			children = (
+				E4DBD6952DE9F60D00748A04 /* 2bicon_black.pdf */,
 				E4DBD5EB2DE8F9A600748A04 /* 2B.app */,
 				E4DBD5F92DE8F9A800748A04 /* 2BTests.xctest */,
 				E4DBD6032DE8F9A800748A04 /* 2BUITests.xctest */,
@@ -112,6 +206,8 @@
 			);
 			name = 2B;
 			packageProductDependencies = (
+				E4DBD61E2DE8FCCF00748A04 /* HotKey */,
+				E4DBD6212DE913A500748A04 /* SVGView */,
 			);
 			productName = 2B;
 			productReference = E4DBD5EB2DE8F9A600748A04 /* 2B.app */;
@@ -195,6 +291,10 @@
 			);
 			mainGroup = E4DBD5E22DE8F9A600748A04;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				E4DBD61D2DE8FCCF00748A04 /* XCRemoteSwiftPackageReference "HotKey" */,
+				E4DBD6202DE9138D00748A04 /* XCRemoteSwiftPackageReference "SVGView" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = E4DBD5EC2DE8F9A600748A04 /* Products */;
 			projectDirPath = "";
@@ -212,6 +312,35 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4DBD6752DE919AB00748A04 /* voice-square.svg in Resources */,
+				E4DBD6762DE919AB00748A04 /* chrome.svg in Resources */,
+				E4DBD6772DE919AB00748A04 /* send-2.svg in Resources */,
+				E4DBD6782DE919AB00748A04 /* like-1.svg in Resources */,
+				E4DBD6792DE919AB00748A04 /* bookmark.svg in Resources */,
+				E4DBD67A2DE919AB00748A04 /* image (2).svg in Resources */,
+				E4DBD67B2DE919AB00748A04 /* flash.svg in Resources */,
+				E4DBD67C2DE919AB00748A04 /* google-drive.svg in Resources */,
+				E4DBD67D2DE919AB00748A04 /* chrome (1) 1.svg in Resources */,
+				E4DBD67E2DE919AB00748A04 /* clipboard-text.svg in Resources */,
+				E4DBD67F2DE919AB00748A04 /* whatsapp.svg in Resources */,
+				E4DBD6802DE919AB00748A04 /* 3-dots-more.svg in Resources */,
+				E4DBD6812DE919AB00748A04 /* clipboard.svg in Resources */,
+				E4DBD6822DE919AB00748A04 /* dislike.svg in Resources */,
+				E4DBD6832DE919AB00748A04 /* document-copy.svg in Resources */,
+				E4DBD6962DE9F60D00748A04 /* 2bicon_black.pdf in Resources */,
+				E4DBD6842DE919AB00748A04 /* facebook.svg in Resources */,
+				E4DBD6852DE919AB00748A04 /* instagram.svg in Resources */,
+				E4F0EC1B2DECDAC500E56846 /* Figma-Website-2048x1152.webp in Resources */,
+				E4DBD6862DE919AB00748A04 /* send-2 (1).svg in Resources */,
+				E4DBD6872DE919AB00748A04 /* repeat-arrow.svg in Resources */,
+				E4DBD6882DE919AB00748A04 /* quote-down.svg in Resources */,
+				E4DBD6892DE919AB00748A04 /* quote-up-square.svg in Resources */,
+				E4DBD68A2DE919AB00748A04 /* maximize.svg in Resources */,
+				E4DBD68B2DE919AB00748A04 /* flash 1.svg in Resources */,
+				E4DBD68C2DE919AB00748A04 /* upload-cloud.svg in Resources */,
+				E4DBD68D2DE919AB00748A04 /* 2bicon.pdf in Resources */,
+				E4DBD68E2DE919AB00748A04 /* chrome (1).svg in Resources */,
+				E4DBD68F2DE919AB00748A04 /* Icon.svg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -551,6 +680,38 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		E4DBD61D2DE8FCCF00748A04 /* XCRemoteSwiftPackageReference "HotKey" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/soffes/HotKey.git";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+		E4DBD6202DE9138D00748A04 /* XCRemoteSwiftPackageReference "SVGView" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/exyte/SVGView.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.6;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		E4DBD61E2DE8FCCF00748A04 /* HotKey */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E4DBD61D2DE8FCCF00748A04 /* XCRemoteSwiftPackageReference "HotKey" */;
+			productName = HotKey;
+		};
+		E4DBD6212DE913A500748A04 /* SVGView */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E4DBD6202DE9138D00748A04 /* XCRemoteSwiftPackageReference "SVGView" */;
+			productName = SVGView;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = E4DBD5E32DE8F9A600748A04 /* Project object */;
 }
